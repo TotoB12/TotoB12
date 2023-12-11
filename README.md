@@ -1,7 +1,7 @@
 [![Stars](https://img.shields.io/badge/dynamic/json?label=%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/TotoB12)](https://github.com/TotoB12)
 [![Followers](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DTotoB12&longCache=true")](https://github.com/TotoB12)
 
-working on somthing, probably
+working on something, probably
 
 yes I made a bot to make commits once
 no I haven't used it in months
