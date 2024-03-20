@@ -3,7 +3,7 @@
 
 working on something, probably
 
-yes I made a bot to make commits once
+yes I made a bot to make commits once;
 no I haven't used it in months
 
 [![TotoB12's GitHub stats](https://github-readme-stats.vercel.app/api?username=TotoB12&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true)](https://github.com/TotoB12)
